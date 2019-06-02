@@ -1,6 +1,4 @@
-# Will-Wright.github.io
-
-[linked text](http://squarespace.com/ "Title")
+# To view Will's webpage, [click here](Will-Wright.github.io.git "Title")
 
 
 
