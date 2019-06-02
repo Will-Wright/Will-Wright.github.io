@@ -1,4 +1,4 @@
-# To view Will's webpage, [click here](Will-Wright.github.io "Title")
+# To view Will's webpage, [click here](https://will-wright.github.io/)
 
 
 
