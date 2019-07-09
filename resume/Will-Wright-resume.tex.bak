@@ -196,7 +196,9 @@ $\circ$ \ contributed performance-critical \CC \hspace{-0.02cm} code to team rep
 	\end{wrapfigure} 
 	
 \vspace{-1.25cm}
-$\circ$ \ developed a faster algorithm than the 
+$\circ$ \ developed a 
+\href{https://github.com/Will-Wright/image-segmentation#demo-tutorial} {\textsl{faster algorithm}}
+than the 
 \href{http://www1.maths.lth.se/matematiklth/vision/publdb/reports/pdf/eriksson-olsson-etal-jmiv-10.pdf} {\textsl{original algorithm}}
 	\\
 $\circ$ \ developed a
