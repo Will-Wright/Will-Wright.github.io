@@ -463,7 +463,7 @@
 \let\@@section\relax
 \def\ds@overlapped{\ifx\@@section\relax\newsectionwidth{0.5in}\let
   \@@section\unboxed@sectiontitle\fi}
-\def\ds@margin{\ifx\@@section\relax\newsectionwidth{1.1in}\let
+\def\ds@margin{\ifx\@@section\relax\newsectionwidth{1.25in}\let
   \@@section\boxed@sectiontitle\fi}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -521,7 +521,7 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % if you want to print your name and address is a slightly
-% different format than sugessted, then this can be used
+% different format than suggested, then this can be used
 % to place it exactly where you want
 %
 \def\opening{\def\@opening{}

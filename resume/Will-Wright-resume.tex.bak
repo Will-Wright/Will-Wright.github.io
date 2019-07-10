@@ -1,5 +1,5 @@
 \documentclass[12pt,margintitle,line]{res}
-\usepackage[a4paper,left=1.0cm,right=4.5cm,top=1.5cm,bottom=1.5cm]{geometry}
+\usepackage[a4paper,left=1.0cm,right=4.15cm,top=1.3cm,bottom=1.5cm]{geometry}
 \usepackage[utf8]{inputenc}
 \usepackage[colorlinks=true,urlcolor=blue]{hyperref}
 \usepackage[pdftex]{graphicx}
@@ -22,7 +22,6 @@
 
 
 
-%\newcommand\CC{C\nolinebreak[4]\hspace{-.05em}\raisebox{.4ex}{\relsize{-3}{\textbf{++}}}}
 
 \newcommand{\CC}{C\nolinebreak\hspace{-.05em}\raisebox{.4ex}{\scriptsize\bf +}\nolinebreak\hspace{-.10em}\raisebox{.4ex}{\scriptsize\bf +} }
 \def\CC{{C\nolinebreak[4]\hspace{-.05em}\raisebox{.4ex}{\scriptsize\bf ++}}}
@@ -90,6 +89,8 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\vspace{-0.1}
+
 \section{Contact}
 \vspace{-0.45cm}
 \begin{tabbing}
@@ -103,7 +104,7 @@ GitHub: \> \url{https://github.com/will-wright} \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-\vspace{-0.7cm}
+\vspace{-1.2cm}
 
 \section{Education}
 
@@ -123,6 +124,8 @@ $\circ$ \ Machine learning applications
 	\\
 $\circ$ \ Nonlinear optimization
 \end{position}
+\\
+2015-2016 - \href{http://siam.math.ucdavis.edu/doku.php}{\textsl{SIAM Student Chapter President}}
 
 
 \vspace{-0.5cm}
@@ -137,6 +140,14 @@ $\circ$ \ Nonlinear optimization
 
 
 \vspace{-0.5cm}
+\title{\mbox{MA Teaching - Concordia University, Portland OR}}
+\employer{June 2009}
+\dates{}
+\begin{position}
+\end{position}
+
+
+\vspace{-1.5cm}
 \title{\mbox{BS  Political Science \& Philosophy - Penn State}}
 \employer{Dec 2006}
 \dates{}
@@ -150,13 +161,13 @@ $\circ$ \ Nonlinear optimization
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-\vspace{-0.7cm}
+\vspace{-1.2cm}
 
 \section{Internship}
 
 \vspace{-0.5cm}
 \title{Researcher \& Software Engineer - Apple}
-\employer{June-Dec 2016}
+\employer{June - Dec 2016}
 \dates{}
 \begin{position}
 $\circ$ \ prototyped optimization methods \\
@@ -165,10 +176,44 @@ $\circ$ \ contributed performance-critical \CC \hspace{-0.02cm} code to team rep
 
 
 
+\vspace{-0.2cm}
+
+\section{Professional Experience}
+
+\vspace{-0.5cm}
+\title{\mbox{Instructor - California State University, East Bay}}
+\employer{2011 - 2013}
+\dates{}
+\begin{position}
+\end{position}
+
+
+\vspace{-1.8cm}
+\title{\mbox{Middle School Teaching - Academy of Alameda, Alameda CA}}
+\employer{2010 - 2011}
+\dates{}
+\begin{position}
+\end{position}
+
+\vspace{-1.8cm}
+\title{\mbox{High School Teacher - Delta Academy, Antioch CA}}
+\employer{2009 - 2010}
+\dates{}
+\begin{position}
+\end{position}
+
+\vspace{-1.8cm}
+\title{\mbox{Underwriter - Farmers Insurance, Portland OR}}
+\employer{2007 - 2008}
+\dates{}
+\begin{position}
+\end{position}
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-\vspace{0.15cm}
+\vspace{-1.2cm}
 
 \section{Research Projects}
 
@@ -224,9 +269,13 @@ requiring $\mathcal{O}(\text{pixels})$ ops vs $\mathcal{O}(\text{pixels}^2)$ in
 \vspace{-1.25cm}
 $\circ$ \ developed efficient numerical methods to optimize a recent \href{https://arxiv.org/abs/1508.00315}{\textit{phase retrieval algorithm}}
 	\\
-$\circ$ \ decreased computational costs and runtime by 50-90\%
+$\circ$ \ decreased computational costs and 
+\href{https://github.com/Will-Wright/low-rank-opt-rapid-eig#comparison-of-saga_sd-and-saga_sd-rapid-eig}{\textit{runtime}}
+by 50-90\%
 	\\
-$\circ$ \ demonstrated this algorithm is more accurate than a highly-cited \href{https://arxiv.org/abs/1407.1065}{\textit{competitor algorithm}}
+$\circ$ \ demonstrated this algorithm is 
+\href{https://github.com/Will-Wright/low-rank-opt-rapid-eig#comparison-of-saga_sd-and-wflow-for-noisy-phase-retrieval}{\textit{more accurate}}
+than a highly-cited \href{https://arxiv.org/abs/1407.1065}{\textit{competitor algorithm}}
 \end{position}
 
 
@@ -264,7 +313,8 @@ two recent methods
 and
 \href{https://academic.oup.com/imajna/article/37/4/1635/3059683}{\textit{Lagrangian}})
 	\\
-$\circ$ \ demonstrated this method (LQS, right) scales
+$\circ$ \ \href{https://github.com/Will-Wright/lasso-quadratic-solver#demo-tutorial}{\textit{demonstrated}} 
+this method (LQS, right) scales
 	\\		\hspace*{0.35cm} 
 better than built-in MATLAB software
 \end{position}
@@ -272,10 +322,10 @@ better than built-in MATLAB software
 
 
 
-
-
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
 
 \section{Software Skills}
 
