@@ -89,7 +89,7 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\vspace{-0.1}
+\vspace{-0.2cm}
 
 \section{Contact}
 \vspace{-0.45cm}
@@ -104,7 +104,7 @@ GitHub: \> \url{https://github.com/will-wright} \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-\vspace{-1.2cm}
+\vspace{-1.3cm}
 
 \section{Education}
 
@@ -116,19 +116,19 @@ GitHub: \> \url{https://github.com/will-wright} \\
 Dissertation: 
 \href{https://github.com/Will-Wright/dissertation-rapid_eigenvalue_method_for_noisy_phase_retrieval/blob/master/will_wright_dissertation.pdf} {\textsl{A Rapid Eigenvalue Method for Noisy Phase Retrieval}}
 	\\
-Emphases: 
+Specialization: 
 	\\
 $\circ$ \ Large-scale numerical methods
 	\\
-$\circ$ \ Machine learning applications
+$\circ$ \ Machine learning / deep learning applications (e.g., \href{https://github.com/Will-Wright/MNIST-CNN}{\textsl{CNNs in TensorFlow}})
 	\\
-$\circ$ \ Nonlinear optimization
+$\circ$ \ Nonlinear and convex optimization
 \end{position}
 \\
-2015-2016 - \href{http://siam.math.ucdavis.edu/doku.php}{\textsl{SIAM Student Chapter President}}
+2015-2016 - SIAM Student Chapter President
 
 
-\vspace{-0.5cm}
+\vspace{-0.75cm}
 \title{\mbox{MS  Applied Math - California State University, East Bay}}
 \employer{June 2013}
 \dates{}
@@ -139,7 +139,7 @@ $\circ$ \ Nonlinear optimization
 \end{position}
 
 
-\vspace{-0.5cm}
+\vspace{-0.75cm}
 \title{\mbox{MA Teaching - Concordia University, Portland OR}}
 \employer{June 2009}
 \dates{}
@@ -147,7 +147,7 @@ $\circ$ \ Nonlinear optimization
 \end{position}
 
 
-\vspace{-1.5cm}
+\vspace{-1.8cm}
 \title{\mbox{BS  Political Science \& Philosophy - Penn State}}
 \employer{Dec 2006}
 \dates{}
@@ -161,7 +161,7 @@ $\circ$ \ Nonlinear optimization
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-\vspace{-1.2cm}
+\vspace{-1.3cm}
 
 \section{Internship}
 
@@ -181,7 +181,7 @@ $\circ$ \ contributed performance-critical \CC \hspace{-0.02cm} code to team rep
 \section{Professional Experience}
 
 \vspace{-0.5cm}
-\title{\mbox{Instructor - California State University, East Bay}}
+\title{\mbox{Assistant Instructor - California State University, East Bay}}
 \employer{2011 - 2013}
 \dates{}
 \begin{position}
@@ -241,7 +241,7 @@ $\circ$ \ contributed performance-critical \CC \hspace{-0.02cm} code to team rep
 	\end{wrapfigure} 
 	
 \vspace{-1.25cm}
-$\circ$ \ developed a 
+$\circ$ \ developed a
 \href{https://github.com/Will-Wright/image-segmentation#demo-tutorial} {\textsl{faster algorithm}}
 than the 
 \href{http://www1.maths.lth.se/matematiklth/vision/publdb/reports/pdf/eriksson-olsson-etal-jmiv-10.pdf} {\textsl{original algorithm}}
@@ -259,7 +259,7 @@ requiring $\mathcal{O}(\text{pixels})$ ops vs $\mathcal{O}(\text{pixels}^2)$ in
 
 \vspace{-0.5cm}
 \title{
-\href{https://github.com/Will-Wright/low-rank-opt-rapid-eig} {\textsl{Phase Retrieval Denoising}}
+\href{https://github.com/Will-Wright/low-rank-opt-rapid-eig} {\mbox{\textsl{Signal/Image Processing: Phase Retrieval Denoising via Nonlinear Regression}}}
 }
 \employer{ 
 }
@@ -267,11 +267,14 @@ requiring $\mathcal{O}(\text{pixels})$ ops vs $\mathcal{O}(\text{pixels}^2)$ in
 \begin{position}
 	
 \vspace{-1.25cm}
-$\circ$ \ developed efficient numerical methods to optimize a recent \href{https://arxiv.org/abs/1508.00315}{\textit{phase retrieval algorithm}}
+$\circ$ \ developed 
+\href{https://github.com/Will-Wright/low-rank-opt-rapid-eig/blob/master/adaptive_eigs_params.m}{\textit{adaptive hyperparameter selection method}}
+based on 
+\href{https://github.com/Will-Wright/low-rank-opt-rapid-eig#adaptive-parameter-selection-method-based-on-grid-search-results}{\textit{grid search strategy}}
 	\\
-$\circ$ \ decreased computational costs and 
-\href{https://github.com/Will-Wright/low-rank-opt-rapid-eig#comparison-of-saga_sd-and-saga_sd-rapid-eig}{\textit{runtime}}
-by 50-90\%
+$\circ$ \ \href{https://github.com/Will-Wright/low-rank-opt-rapid-eig#comparison-of-saga_sd-and-saga_sd-rapid-eig}{\textit{decreased costs and runtime}}
+by 50-90\% for a recent
+\href{https://arxiv.org/abs/1508.00315}{\textit{phase retrieval algorithm}}
 	\\
 $\circ$ \ demonstrated this algorithm is 
 \href{https://github.com/Will-Wright/low-rank-opt-rapid-eig#comparison-of-saga_sd-and-wflow-for-noisy-phase-retrieval}{\textit{more accurate}}
@@ -284,7 +287,7 @@ than a highly-cited \href{https://arxiv.org/abs/1407.1065}{\textit{competitor al
 
 \vspace{-0.5cm}
 \title{
-\href{https://github.com/Will-Wright/lasso-quadratic-solver} {\textsl{LASSO \& Quadratic Programming}}
+\href{https://github.com/Will-Wright/lasso-quadratic-solver} {\mbox{\textsl{LASSO Regularization, Quadratic Programming}}}
 }
 \employer{ 
 }
@@ -325,7 +328,7 @@ better than built-in MATLAB software
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-
+\vspace{-0.2cm}
 
 \section{Software Skills}
 
@@ -337,7 +340,7 @@ better than built-in MATLAB software
 \vspace{-2.4cm}
 \textbf{Experienced}  \ MATLAB, Python
 	\\
-\textbf{Intermediate} \ \CC, Git, Julia
+\textbf{Intermediate} \ \CC, Git, \href{https://github.com/Will-Wright/MNIST-CNN}{\textsl{TensorFlow}}, scikit-learn, Julia
 \end{position}
 
 
